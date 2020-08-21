@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Splatterxl!
 
-#### 🔭 I’m currently working on a [website](splatterxl.github.io/rcorp_files/) in this [repo](github.com/Splatterxl/rcorp_files/)
+#### 🔭 I’m currently working on a [website](https://splatterxl.github.io/rcorp_files/) in this [repo](https://github.com/Splatterxl/rcorp_files/)
 If you want to help out, drop a pull request!
 
 <!--
