@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there! 👋 I'm Splatterxl!
+
+#### 🔭 I’m currently working on a [website](splatterxl.github.io/rcorp_files/) in this [repo](github.com/Splatterxl/rcorp_files/)
+If you want to help out, drop a pull request!
 
 <!--
 **Splatterxl/splatterxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
