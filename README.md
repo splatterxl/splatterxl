@@ -12,4 +12,4 @@
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nearlysplat&layout=compact)
 
 ### WakaTime Stats
-![WakaTime Stats](https://wakatime.com/share/@ef3989fc-9fb7-494d-94b0-34a65d609263/f4f2061f-c934-44ea-ab5e-c29ebeec0354.png)
+![WakaTime Stats](https://wakatime.com/share/@ef3989fc-9fb7-494d-94b0-34a65d609263/55c0b26f-aacd-46c4-a5ec-62e10378a0e8.png)
