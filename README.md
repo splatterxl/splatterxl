@@ -96,3 +96,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nearlySplat&count_private=true&show_icons=true&theme=dark)
+
+[![:wqa!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=000000&center=true&vCenter=true&lines=%3Awqa!)](https://git.io/typing-svg)
