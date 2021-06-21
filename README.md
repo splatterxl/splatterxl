@@ -1,7 +1,7 @@
 ## Hi there! 👋 I'm Splatterxl!
 
 - 🔭 I’m currently working on Discord bots
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: Splatterxl#8999 on Discord
 - 😄 Pronouns: he/him (I'm a femboy fox UwU)
 - ⚡ Fun fact: yes.
