@@ -9,17 +9,17 @@
 ### WakaTime Stats
 ![WakaTime Stats](https://wakatime.com/share/@Splatterxl/3171b454-6d7f-4cf9-91d7-768613f3b8c2.svg)
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,849 Contributions in the Year 2021
+> 🏆 1,851 Contributions in the Year 2021
  > 
-> 📦 43.3 kB Used in Github's Storage 
+> 📦 43.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 35 Public Repositories 
  > 
 > 🔑 7 Private Repositories  
  > 
@@ -37,9 +37,9 @@
 ```text
 Monday       136 commits    █████░░░░░░░░░░░░░░░░░░░░   21.52% 
 Tuesday      59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.34% 
-Wednesday    56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.86% 
+Wednesday    57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.02% 
 Thursday     107 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.93% 
-Friday       96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
+Friday       95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.03% 
 Saturday     59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.34% 
 Sunday       119 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.83%
 
@@ -92,7 +92,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nearlySplat/nearlySplat/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/07/2021
+ Last Updated on 08/07/2021
 <!--END_SECTION:waka-->
 
 
