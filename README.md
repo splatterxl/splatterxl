@@ -1,6 +1,6 @@
 ## Hi
 
-I'm Splatterxl, a no-life coder gurl who needs to go out and touch some grass.
+I'm Splatterxl, a not cute coder gurl who needs to go out and touch some grass.
 
 ### What have I been doing with my life
 <!--START_SECTION:waka-->
