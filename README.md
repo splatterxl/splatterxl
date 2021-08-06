@@ -1,13 +1,8 @@
-## Hi there! 👋 I'm Splatterxl!
+## Hi
 
-- 🔭 I’m currently working on Discord bots
-- 🌱 I’m currently learning C#
-- 📫 How to reach me: Splatterxl#8999 on Discord
-- 😄 Pronouns: he/him (I'm a femboy fox UwU)
-- ⚡ Fun fact: yes.
+I'm Splatterxl, a no-life coder gurl who needs to go out and touch some grass.
 
-### WakaTime Stats
-![WakaTime Stats](https://wakatime.com/share/@Splatterxl/3171b454-6d7f-4cf9-91d7-768613f3b8c2.svg)
+### What have I been doing with my life
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
