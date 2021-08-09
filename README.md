@@ -10,7 +10,7 @@ I'm Splatterxl, a not cute coder gurl who needs to go out and touch some grass.
 
 > 🏆 2,086 Contributions in the Year 2021
  > 
-> 📦 25.9 kB Used in Github's Storage 
+> 📦 26.1 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -86,7 +86,7 @@ Vim script               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nearlySplat/nearlySplat/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/08/2021
+ Last Updated on 09/08/2021
 <!--END_SECTION:waka-->
 
 
