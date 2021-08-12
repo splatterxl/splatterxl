@@ -4,11 +4,11 @@ I'm Splatterxl, a not cute coder gurl who needs to go out and touch some grass.
 
 ### What have I been doing with my life
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,093 Contributions in the Year 2021
+> 🏆 2,102 Contributions in the Year 2021
  > 
 > 📦 26.2 kB Used in Github's Storage 
  > 
@@ -22,9 +22,9 @@ I'm Splatterxl, a not cute coder gurl who needs to go out and touch some grass.
 
 ```text
 🌞 Morning    28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.93% 
-🌆 Daytime    359 commits    ████████████░░░░░░░░░░░░░   50.35% 
-🌃 Evening    285 commits    ██████████░░░░░░░░░░░░░░░   39.97% 
-🌙 Night      41 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.75%
+🌆 Daytime    355 commits    ████████████░░░░░░░░░░░░░   49.79% 
+🌃 Evening    287 commits    ██████████░░░░░░░░░░░░░░░   40.25% 
+🌙 Night      43 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.03%
 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -32,10 +32,10 @@ I'm Splatterxl, a not cute coder gurl who needs to go out and touch some grass.
 ```text
 Monday       141 commits    █████░░░░░░░░░░░░░░░░░░░░   19.78% 
 Tuesday      82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.5% 
-Wednesday    71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.96% 
-Thursday     124 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
-Friday       110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.43% 
-Saturday     65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.12% 
+Wednesday    80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.22% 
+Thursday     119 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.69% 
+Friday       107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.01% 
+Saturday     64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.98% 
 Sunday       120 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.83%
 
 ```
@@ -86,7 +86,7 @@ Vim script               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nearlySplat/nearlySplat/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/08/2021
+ Last Updated on 12/08/2021
 <!--END_SECTION:waka-->
 
 
