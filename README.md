@@ -1,44 +1,19 @@
-# Splatterxl
+# Hey there! :wave:
 
-## Introduction
+Hi! I'm Splatterxl, a [Rust], [JavaScript] and [TypeScript] developer with lots of [dead projects].
 
-### Summary
+I develop with no particular stack, it all depends on the project. However, I do love [Fastify] and [MongoDB].
 
-Splatterxl is a command-line utility to bring eternal pain to your workspace.
+## Projects
 
-### Extensive, 50-paragraph essay about the usage of Splatterxl
-Does not exist.
+- [Fuwa]: a small, simple and easy-to-use Discord API library.
+- [Q][qlang]: a tiny programming language that is absolutely :shit:
 
-## Installation
-
-Splatterxl can be downloaded in binary form in the [Releases] page (will only be updated when a *successful* build occurs) <!-- well, that explains the absence of a release --> or can be compiled from source.
-
-A shell script to do that is provided:
-
-```sh
-# Clones the repository
-git clone https://github.com/nearlySplat/source.git && cd source
-# Builds the binary, it'll be dumped in `target/release`
-make build
-
-# Optional, run the binary
-./target/release/splatterxl
-```
-
-## Usage
-
-### Summary
-```
-splatterxl [file...]
-```
-
-### Extended Usage
-
-None, since the developer is too lazy to add even one extra feature.
-
----
-
-Additional information can be found on the man page (`man splatterxl`) or on our <!-- non-existent --> [website].
-
-[website]: https://inky.cf/
-[releases]: ../../releases
+[rust]: https://rustlang.org
+[javascript]: https://nodejs.org
+[typescript]: https://typescriptlang.org
+[dead projects]: https://github.com/splatterxl?tab=repositories
+[fastify]: https://fastify.io
+[mongodb]: https://mongodb.org
+[fuwa]: https://github.com/FuwaDiscord
+[qlang]: https://github.com/splatterxl/qlang
