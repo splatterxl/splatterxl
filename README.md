@@ -8,7 +8,9 @@ I develop with no particular stack, it all depends on the project. However, I do
 
 - [Fuwa]: a small, simple and easy-to-use Discord API library.
 - [Q][qlang]: a tiny programming language that is absolutely :shit:
-- [`wrap`]: absolutely tiny text-wrap utility.
+- [wrap]: absolutely tiny text-wrap utility.
+- [Experiments]: a small Discord bot to view guild experiments.
+- [Asgard]: automoderation, done right.
 
 [rust]: https://rustlang.org
 [javascript]: https://nodejs.org
@@ -18,4 +20,6 @@ I develop with no particular stack, it all depends on the project. However, I do
 [mongodb]: https://mongodb.org
 [fuwa]: https://github.com/FuwaDiscord
 [qlang]: https://github.com/splatterxl/qlang
-[`wrap`]: https://github.com/splatterxl/wrap
+[wrap]: https://github.com/splatterxl/wrap
+[experiments]: https://github.com/splatterxl/experiments
+[asgard]: https://github.com/asgardbot
