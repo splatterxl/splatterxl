@@ -1,25 +1,21 @@
 # Hey there! :wave:
 
-Hi! I'm Splatterxl, a [Rust], [JavaScript] and [TypeScript] developer with lots of [dead projects].
-
-I develop with no particular stack, it all depends on the project. However, I do love [Fastify] and [MongoDB].
+Hi! I'm Ruairí, an Irish 🇮🇪 developer with lots of unfinished projects. Most of my work happens in private repos for personal projects but hopefully once they're done I'll release the code.
 
 ## Projects
 
-- [Fuwa]: a small, simple and easy-to-use Discord API library.
-- [Q][qlang]: a tiny programming language that is absolutely :shit:
-- [wrap]: absolutely tiny text-wrap utility.
-- [Experiments]: a small Discord bot to view guild experiments.
-- [Asgard]: automoderation, done right.
+- [fuwa]: a small, simple and lightweight Discord API library
+- [wrap]: absolutely tiny text-wrapping utility written in Rust
+- [chakra-forms]: React component library wrapping [formik](https://github.com/jaredpalmer/formik) for Chakra UI
 
-[rust]: https://rustlang.org
-[javascript]: https://nodejs.org
-[typescript]: https://typescriptlang.org
-[dead projects]: https://github.com/splatterxl?tab=repositories
-[fastify]: https://fastify.io
-[mongodb]: https://mongodb.org
+## Contact
+
+- Email: [contact@splt.dev](mailto:contact@splt.dev)
+- Discord: [@thepotatofamine][Discord]
+- Keybase: [splatterxl](https://keybase.io/splatterxl)
+- PGP public key: [https://splt.dev/pubkey](https://splt.dev/gpg-key.txt)
+
+[Discord]: https://discord.com/users/728342296696979526
 [fuwa]: https://github.com/FuwaDiscord
-[qlang]: https://github.com/splatterxl/qlang
 [wrap]: https://github.com/splatterxl/wrap
-[experiments]: https://github.com/splatterxl/experiments
-[asgard]: https://github.com/asgardbot
+[chakra-forms]: https://github.com/splatterxl/chakra-forms
