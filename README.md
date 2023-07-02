@@ -16,6 +16,6 @@ Hi! I'm Ruairí, an Irish 🇮🇪 developer with lots of unfinished projects. M
 - PGP public key: [https://splt.dev/pubkey](https://splt.dev/gpg-key.txt)
 
 [Discord]: https://discord.com/users/728342296696979526
-[fuwa]: https://github.com/FuwaDiscord
+[fuwa]: https://github.com/fuwa-org/fuwa
 [wrap]: https://github.com/splatterxl/wrap
 [chakra-forms]: https://github.com/splatterxl/chakra-forms
