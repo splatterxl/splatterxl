@@ -1,21 +1,3 @@
-# Hey there! :wave:
-
-Hi! I'm Ruairí, an Irish 🇮🇪 developer with lots of unfinished projects. Most of my work happens in private repos for personal projects but hopefully once they're done I'll release the code.
-
-## Projects
-
-- [fuwa]: a small, simple and lightweight Discord API library
-- [wrap]: absolutely tiny text-wrapping utility written in Rust
-- [chakra-forms]: React component library wrapping [formik](https://github.com/jaredpalmer/formik) for Chakra UI
-
-## Contact
-
-- Email: [contact@splt.dev](mailto:contact@splt.dev)
-- Discord: [@thepotatofamine][Discord]
-- Keybase: [splatterxl](https://keybase.io/splatterxl)
-- PGP public key: [https://splt.dev/gpg-key.txt](https://splt.dev/gpg-key.txt)
-
-[Discord]: https://discord.com/users/728342296696979526
-[fuwa]: https://github.com/fuwa-org/fuwa
-[wrap]: https://github.com/splatterxl/wrap
-[chakra-forms]: https://github.com/splatterxl/chakra-forms
+```math
+\ce{$\unicode[goombafont; color:red; z-index: 9999; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://github.com/splatterxl/splatterxl/assets/67709748/cbce8c41-5f2a-4907-a1bd-70e4eacf351f');]{x0000}$}
+```
